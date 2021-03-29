@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+#practice{
+    display: inline-block, inline-flex, flex;
+
+    float: none, left;
+
+    font-family:'Courier New', Courier, monospace ;
+    font-weight:bold ;
+    font-size:20px ;
+    color:green ;
+    
+    text-align: center;
+    text-decoration: none;
+    list-style: upper-roman, none;
+
+    position: relative, absolute, fixed;
+    z-index: 100;
+
+    height: 1%,1px;
+    width: 1%,1px;
+    padding: 20%;
+    margin: 20%;
+
+    border: 2px double solid burlywood;
+    border-radius: 10px;
+    border-collapse: collapse;
+
+    background-color: greenyellow;
+    background-image: none, url() ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    overflow: scroll, hidden, auto;
+    cursor: pointer;
+
+}
+span .tap{
+    display: inline-block;
+    margin-left: 120px;
+}
+table{
+    width: max-content, min-content;
+    margin20px 
+}
+#perant{
+    overflow:;
+}
